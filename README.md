@@ -1,6 +1,6 @@
-# Run Subscription Payments with the Stripe Firebase Extension
+# Maliek Extensions
 
-This is an example web client for usage with the [Stripe Subscriptions Firebase Extension](https://firebase.google.com/products/extensions/firestore-stripe-subscriptions).
+This is an my example of web clients for usage with the [Stripe Subscriptions Firebase Extension](https://firebase.google.com/products/extensions/firestore-stripe-subscriptions).
 
 **Features:**
 
@@ -9,9 +9,9 @@ This is an example web client for usage with the [Stripe Subscriptions Firebase 
 - Syncs your subscription statuses with Firebase Authentication for access control management.
 - Gives your users access to the Stripe Customer Portal.
 
-## Demo
+## Web
 
-- https://stripe-subs-ext.web.app/
+- https://adball.online/
 
 The design for Stripe Checkout and the customer portal can be customized in your Stripe Dashboard [branding settings](https://dashboard.stripe.com/settings/branding). See this example which is customized to match the Firebase color scheme:
 
